@@ -20,6 +20,6 @@ Dependencies
 - cv2
 - dlib
 - [VGGFace keras library](https://github.com/rcmalli/keras-vggface)
-- [face_recognition] library(https://github.com/ageitgey/face_recognition/)
+- [face_recognition](https://github.com/ageitgey/face_recognition/) library
 - Keras v2.0+
 - Tensorflow backend v1.0+
